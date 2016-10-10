@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="selenium-server-standalone-2.53.1">
+    <CLASSES>
+      <root url="jar://C:/appium/selenium-server-standalone-2.53.1.jar!/" />
+      <root url="jar://C:/appium/java-client-4.1.2.jar!/" />
+      <root url="file://C:/appium/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/appium/lib" recursive="false" />
+  </library>
+</component>
